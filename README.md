@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/animated-name.gif" width="300"/>
+# Hi there 👋, I'm Rouane Mounssif
 
 ### 🚀 About Me
 I'm an **AI Integration & AI Content Creation** enthusiast. I build workflows, automation systems, and AI-powered tools to make processes smarter and content more impactful.  
@@ -20,21 +20,21 @@ I enjoy experimenting with AI models, APIs, and creative pipelines to solve real
 
 ### 🛠 Skills & Tools
 **Languages & Frameworks:**  
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/python-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/csharp-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/javascript-animated.gif" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/flask-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/django-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/fastapi-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/gradio-animated.gif" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/chatgpt-animated.gif" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/fastapi.gif" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/gradio-demo.gif" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/chatgpt-animation.gif" width="40" height="40"/>  
 
 **AI & Tools:**  
-<img src="https://img.shields.io/badge/OpenAI-API-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" height="28"/> 
-<img src="https://img.shields.io/badge/LangChain-AI-red?style=for-the-badge&logo=python&logoColor=white" height="28"/> 
-<img src="https://img.shields.io/badge/Hugging%20Face-AI-orange?style=for-the-badge&logo=huggingface&logoColor=white" height="28"/>  
-<img src="https://img.shields.io/badge/Git-VCS-orange?style=for-the-badge&logo=git&logoColor=white" height="28"/>  
-<img src="https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge&logo=rest&logoColor=black" height="28"/>  
+<img src="https://img.shields.io/badge/OpenAI-API-blue?style=flat-square&logo=openai" height="25"/> 
+<img src="https://img.shields.io/badge/LangChain-AI-red?style=flat-square&logo=python" height="25"/> 
+<img src="https://img.shields.io/badge/Hugging%20Face-AI-orange?style=flat-square&logo=huggingface" height="25"/>  
+<img src="https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git" height="25"/>  
+<img src="https://img.shields.io/badge/REST-API-lightgrey?style=flat-square&logo=rest" height="25"/>  
 
 ---
 
@@ -59,7 +59,7 @@ I enjoy experimenting with AI models, APIs, and creative pipelines to solve real
 ---
 
 ✨ **Fun Features**
-- Animated GIFs for your name, languages, and frameworks  
-- Dynamic GitHub stats & top languages  
-- Modern badges for skills & tools  
+- Dynamic GitHub stats & language charts  
+- Animated GIFs for languages, frameworks & AI tools (resized for neatness)  
+- Modern badges for quick skill recognition  
 - Clean, modular sections for readability
