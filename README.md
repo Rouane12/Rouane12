@@ -31,11 +31,6 @@ I enjoy experimenting with AI models, APIs, and creative pipelines to solve real
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/fastapi.gif" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/gradio-demo.gif" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/assets/chatgpt-animation.gif" width="40" height="40"/>  
 
 **AI & Tools:**  
 <img src="https://img.shields.io/badge/OpenAI-API-blue?style=flat-square&logo=openai" height="25"/> 
