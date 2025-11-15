@@ -18,6 +18,14 @@ I enjoy experimenting with AI models, APIs, and creative pipelines to solve real
 
 ---
 
+### 💡 My Coding Journey
+- 🎓 **Education:** Studying **Software Engineering at EMSI**  
+- 💼 **Internships:** Hands-on experience in **AI automation & integration**, **mobile application development**, and **database management**  
+- 💻 **Projects:** Worked on AI-driven automation pipelines, backend solutions, and mobile apps with databases  
+- 🌱 Passionate about combining software engineering with AI technologies to build innovative solutions
+
+---
+
 ### 🛠 Skills & Tools
 **Languages & Frameworks:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
