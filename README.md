@@ -2,18 +2,30 @@
   <img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/readme%20prof%20animation.gif" width="600" alt="Hi there, I'm Rouane Mounssif 👋">
 </p>
 
-### 🚀 About Me  
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23++About+Me++" alt="Typing SVG" />
+  </a>
+</p>
 > **AI Integrator • Automation Engineer • Creative AI Developer**
 
 I specialize in building **AI-powered workflows**, automations, and intelligent systems.  
 My work focuses on combining **logic + creativity** to produce smart, scalable, and impactful solutions.  
 I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 
-✨ *Fun Fact:* I enjoy transforming simple ideas into fully automated AI systems.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=%E2%9C%A8+Fun+Fact%3A+I+enjoy+transforming+simple+ideas+into+fully+automated+AI+systems." alt="Typing SVG" />
+</a>
+
 
 ---
 
-### 💻 What I Do  
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%92%BB+What+I+Do" alt="Typing SVG" />
+  </a>
+</p>
+
 ✔ Build end-to-end AI automations  
 ✔ Integrate AI models into apps, tools & workflows  
 ✔ Create AI-generated content systems  
@@ -23,7 +35,10 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 
 ---
 
-### 💡 My Coding Journey  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%92%A1+My+Coding+Journey++" alt="Typing SVG" />
+</a>
+
 🎓 **Software Engineering Student @ EMSI**  
 💼 **Internships in:**  
 - AI Automation & Integration  
@@ -34,7 +49,10 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 
 ---
 
-### 🛠 Skills & Tools
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%9B%A0+Skills+%26+Tools" alt="Typing SVG" />
+</a>
+
 **Languages & Frameworks:**  
 <p align="center">
   <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
@@ -80,7 +98,10 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
   <a href="mailto:@matyo91:matrix.org"><img src="https://img.icons8.com/ios/96/matrix-logo.png" alt="matrix"/></a>
 </p>
 
-**AI & Tools:**  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Tools+%3A" alt="Typing SVG" />
+</a>
+
 <img src="https://img.shields.io/badge/OpenAI-API-blue?style=flat-square&logo=openai" height="25"/> 
 <img src="https://img.shields.io/badge/LangChain-AI-red?style=flat-square&logo=python" height="25"/> 
 <img src="https://img.shields.io/badge/Hugging%20Face-AI-orange?style=flat-square&logo=huggingface" height="25"/>  
@@ -89,13 +110,19 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 
 ---
 
-### 📊 GitHub Stats
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
+</a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rouane12&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouane12&layout=compact&theme=radical)
 
 ---
 
-### 🌱 Currently Learning
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%8C%B1+Currently+Learning" alt="Typing SVG" />
+</a>
+
 - Advanced AI prompt engineering  
 - Workflow automation frameworks  
 - AI-powered content generation techniques  
@@ -103,13 +130,18 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 
 ---
 
-### 📫 Connect with Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%8C%B1+Currently+Learning" alt="Typing SVG" />
+</a>
+
 - [LinkedIn](https://linkedin.com/in/rouane-mounssif-538171243)  
 - [Website](https://viralaiyoutubeacademy.com/)  
 
 ---
 
-✨ **Fun Features**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+Fun+Features" alt="Typing SVG" />
+</a>
 - Dynamic GitHub stats & language charts  
 - Animated GIFs for languages, frameworks & AI tools (resized for neatness)  
 - Modern badges for quick skill recognition  
