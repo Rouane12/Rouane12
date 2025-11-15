@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Rouane Mounssif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rouane12/Rouane12/main/readme%20prof%20animation.gif" width="600" alt="Hi there, I'm Rouane Mounssif 👋">
+</p>
 
 ### 🚀 About Me
 I'm an **AI Integration & AI Content Creation** enthusiast. I build workflows, automation systems, and AI-powered tools to make processes smarter and content more impactful.  
