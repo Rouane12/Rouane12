@@ -135,7 +135,7 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 </a>
 
 - [LinkedIn](https://linkedin.com/in/rouane-mounssif-538171243)  
-- [Website](https://viralaiyoutubeacademy.com/)  
+- [Website](https://neuralhustleacademy.com/)  
 
 ---
 
