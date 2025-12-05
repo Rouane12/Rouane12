@@ -114,8 +114,13 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
 </a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rouane12&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouane12&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rouane12&theme=radical" alt="GitHub Stats" height="150">
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rouane12&theme=radical" alt="Top Languages" height="150">
+</p>
 
 ---
 
