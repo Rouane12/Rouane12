@@ -99,34 +99,32 @@ I love experimenting with **AI models, APIs, agents, and automation pipelines**.
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Tools+%3A" alt="Typing SVG" />
-</a>
-
-<img src="https://img.shields.io/badge/OpenAI-API-blue?style=flat-square&logo=openai" height="25"/> 
-<img src="https://img.shields.io/badge/LangChain-AI-red?style=flat-square&logo=python" height="25"/> 
-<img src="https://img.shields.io/badge/Hugging%20Face-AI-orange?style=flat-square&logo=huggingface" height="25"/>  
-<img src="https://img.shields.io/badge/Git-VCS-orange?style=flat-square&logo=git" height="25"/>  
-<img src="https://img.shields.io/badge/REST-API-lightgrey?style=flat-square&logo=rest" height="25"/>  
-
----
-
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
 </a>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rouane12&theme=radical" alt="GitHub Stats" height="150">
+<p align="center">
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rouane12&theme=radical" height="180" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rouane12&theme=radical" alt="Top Languages" height="150">
+<p align="center">
+  <!-- Language By Repo Size -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rouane12&theme=radical" height="150" />
+  
+  <!-- Language By Commit Activity -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rouane12&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rouane12&theme=radical" height="150" />
+  
+  <!-- Productive Time Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rouane12&theme=radical" height="150" />
 </p>
 
 ---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%8C%B1+Currently+Learning" alt="Typing SVG" />
-</a>
 
 - Advanced AI prompt engineering  
 - Workflow automation frameworks  
