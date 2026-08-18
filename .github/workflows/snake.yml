@@ -1,0 +1,40 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate light and dark contribution animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Rouane12
+          outputs: |
+            assets/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7C3AED&color_dots=#E2E8F0,#99F6E4,#2DD4BF,#0891B2,#7C3AED
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#172033,#134E4A,#0D9488,#0891B2,#8B5CF6
+
+      - name: Commit refreshed animations
+        run: |
+          if [ -z "$(git status --porcelain -- assets/)" ]; then
+            echo "Contribution animations are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake-dark.svg
+          git commit -m "chore: refresh contribution animation"
+          git push
