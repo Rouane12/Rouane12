@@ -3,63 +3,91 @@
 </p>
 
 <h1 align="center">Rouane Mounssif</h1>
-<h3 align="center">AI Integration Engineer · Backend Systems Builder · Founder of NeuralHustle</h3>
+<h3 align="center">Software Engineer · AI Integration · Backend Systems · Product Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=750&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Engineering+AI-powered+products;Building+automation+systems+that+scale;Designing+reliable+API-first+backends;Turning+ambitious+ideas+into+working+systems" alt="Animated introduction to Rouane Mounssif's engineering work" />
+  <strong>AI integrations · API-first backends · Automation systems · Independent products</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rouane12&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Rouane Mounssif profile views" />
-  <a href="https://github.com/Rouane12?tab=followers"><img src="https://img.shields.io/github/followers/Rouane12?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=111827" alt="GitHub followers" /></a>
+  <a href="https://github.com/Rouane12"><img src="https://img.shields.io/badge/GITHUB-ROUANE12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://neuralhustleacademy.com/"><img src="https://img.shields.io/badge/NEURALHUSTLE-PORTFOLIO-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeuralHustle portfolio" /></a>
   <a href="https://linkedin.com/in/rouane-mounssif-538171243"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
 ---
 
-## NeuralHustle // Engineering intelligent systems
+## Engineering intelligent systems
 
-I build production-minded AI integrations, automation platforms, and API-first backends. My work focuses on turning powerful models and ambitious product ideas into systems that are structured, observable, and genuinely useful.
+I build AI integrations, automation platforms, and backend systems with an emphasis on clear contracts, reliable execution, observability, and practical product value.
+
+My work spans API design, structured model outputs, asynchronous workflows, multi-tenant data boundaries, analytics infrastructure, and full-stack product engineering.
 
 ```yaml
 focus:
   - AI integration and structured model outputs
-  - Backend architecture and API design
-  - Automation engines and asynchronous workflows
-  - Creative technology and intelligent products
+  - backend architecture and API design
+  - automation engines and asynchronous workflows
+  - multi-tenant reliability and data boundaries
+  - product engineering from prototype to deployment
+
 principles:
-  - clear contracts
-  - reliable execution
+  - explicit contracts
+  - observable behavior
+  - safe failure modes
   - practical intelligence
-  - systems that scale
+  - systems that can evolve
 ```
 
-## Featured engineering work
+## Selected public work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Wardrobe AI Backend
-AI-powered fashion analysis that converts images into structured clothing intelligence, merges observations into style profiles, and generates contextual outfit suggestions.
+### Neural Critic
+An independent gaming publication platform with a reader experience, editorial tooling, publishing automation, analytics, SEO infrastructure, and regression/audit systems.
 
-**FastAPI · Pydantic · OpenAI · Railway**
+**JavaScript · Supabase · GitHub Actions · Publishing Systems**
 
-[Explore repository →](https://github.com/Rouane12/Wardrobe-AI-Backend)
+[Explore repository →](https://github.com/Rouane12/NeuralCritic) · [Visit publication →](https://www.neuralcritic.net/)
 
 </td>
 <td width="50%" valign="top">
 
-### FlowForge
-A backend foundation for building durable automation workflows with queued execution, persistent state, reusable steps, and reliable orchestration.
+### TrafficVerdict
+A reconciliation platform designed to explain why GA4, Search Console, and Cloudflare disagree, with normalized analytics snapshots, evidence-backed diagnoses, scheduled syncs, and tenant-safe workspaces.
 
-**FastAPI · SQLAlchemy · PostgreSQL · Celery · Redis**
+**Next.js · TypeScript · FastAPI · PostgreSQL · SQLAlchemy**
 
-[Explore repository →](https://github.com/Rouane12/FlowForge)
+[Explore repository →](https://github.com/Rouane12/TrafficVerdict)
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PDFBright
+A focused PDF cleanup product built around a simple workflow: upload, diagnose, fix, validate, and download.
+
+**Next.js · TypeScript · React · Document Processing**
+
+[Explore repository →](https://github.com/Rouane12/pdfbright)
+
+</td>
+<td width="50%" valign="top">
+
+### Property Revenue Dashboard — Debugging Assessment
+A debugging exercise covering cross-tenant cache isolation, timezone-aware monthly boundaries, exact financial arithmetic, and safer database failure behavior.
+
+**FastAPI · PostgreSQL · Redis · SQLAlchemy · Decimal**
+
+[Explore repository →](https://github.com/Rouane12/New_devs_App)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -74,11 +102,11 @@ An AI-focused creative system exploring structured generation workflows and auto
 <td width="50%" valign="top">
 
 ### NeuralHustle
-My engineering and creative-technology brand: a home for AI products, practical automation, education, and experiments built to ship.
+My engineering and creative-technology home for AI products, automation experiments, technical work, and product launches.
 
-**AI Engineering · Content Systems · Product Building**
+**HTML · CSS · JavaScript · Canvas · GitHub Pages**
 
-[Visit NeuralHustle →](https://neuralhustleacademy.com/)
+[Explore repository →](https://github.com/Rouane12/NeuralHustler) · [Visit NeuralHustle →](https://neuralhustleacademy.com/)
 
 </td>
 </tr>
@@ -87,35 +115,36 @@ My engineering and creative-technology brand: a home for AI products, practical 
 ## Technology constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,linux,js,ts,html,css&theme=dark&perline=12" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub, Linux, JavaScript, TypeScript, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,linux,js,ts,nextjs,react,html,css&theme=dark&perline=14" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub, Linux, JavaScript, TypeScript, Next.js, React, HTML, and CSS" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_APIs-111827?style=for-the-badge&logo=openai&logoColor=2dd4bf" alt="OpenAI APIs" />
   <img src="https://img.shields.io/badge/Pydantic-111827?style=for-the-badge&logo=pydantic&logoColor=e92063" alt="Pydantic" />
   <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=sqlalchemy&logoColor=d71f00" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-111827?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Alembic" />
   <img src="https://img.shields.io/badge/Celery-111827?style=for-the-badge&logo=celery&logoColor=37b24d" alt="Celery" />
   <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=38bdf8" alt="REST APIs" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=a78bfa" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
 </p>
 
-## GitHub signal
+## Engineering snapshot
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rouane12&theme=tokyonight" alt="Rouane Mounssif GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rouane12&theme=tokyonight" alt="Rouane Mounssif repositories by language" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rouane12&bg_color=0d1117&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Rouane Mounssif GitHub contribution activity graph" />
-</p>
+```text
+AI + backend       FastAPI · Pydantic · OpenAI APIs · REST integrations
+Data + workflows   PostgreSQL · Redis · SQLAlchemy · Alembic · Celery
+Frontend/product   Next.js · React · TypeScript · HTML · CSS
+Delivery           Docker · GitHub Actions · Railway · Vercel · GitHub Pages
+```
 
 ## Current trajectory
 
-- Building dependable AI integrations with explicit data contracts.
-- Engineering asynchronous workflow systems with queues and persistence.
-- Expanding NeuralHustle into a stronger technology and publishing brand.
-- Turning experimental ideas into documented, deployable products.
+- Building dependable AI integrations with explicit schemas and validation.
+- Designing asynchronous workflow systems with durable state and clear failure behavior.
+- Strengthening multi-tenant boundaries, caching, authorization, and data correctness.
+- Building analytics, publishing, and developer-facing products from end to end.
+- Turning experiments into documented, testable, deployable systems.
 
 ## Connect
 
