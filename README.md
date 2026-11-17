@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Rouane12"><img src="https://img.shields.io/badge/GITHUB-ROUANE12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://neuralhustleacademy.com/"><img src="https://img.shields.io/badge/NEURALHUSTLE-PORTFOLIO-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeuralHustle portfolio" /></a>
+  <a href="https://rouane12.github.io/"><img src="https://img.shields.io/badge/NEURALHUSTLE-PORTFOLIO-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NeuralHustle portfolio" /></a>
   <a href="https://linkedin.com/in/rouane-mounssif-538171243"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
@@ -106,7 +106,7 @@ My engineering and creative-technology home for AI products, automation experime
 
 **HTML · CSS · JavaScript · Canvas · GitHub Pages**
 
-[Explore repository →](https://github.com/Rouane12/NeuralHustler) · [Visit NeuralHustle →](https://neuralhustleacademy.com/)
+[Explore repository →](https://github.com/Rouane12/rouane12.github.io) · [Visit NeuralHustle →](https://rouane12.github.io/)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Delivery           Docker · GitHub Actions · Railway · Vercel · GitHub Pages
 ## Connect
 
 <p align="center">
-  <a href="https://neuralhustleacademy.com/"><img src="https://img.shields.io/badge/Portfolio-neuralhustleacademy.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rouane12.github.io/"><img src="https://img.shields.io/badge/Portfolio-neuralhustleacademy.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/rouane-mounssif-538171243"><img src="https://img.shields.io/badge/LinkedIn-Rouane_Mounssif-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Morocco-111827?style=for-the-badge&logo=googlemaps&logoColor=ef4444" alt="Located in Morocco" />
 </p>
